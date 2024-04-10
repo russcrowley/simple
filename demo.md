@@ -1,6 +1,6 @@
-# This is the first line.
+# This is a Heading 1.
 This is body text.
-## This is the second line.
+## This is a Heading 2.
 This is body text.
-### This is the third line.
+### This is a Heading 3.
 This is body text.
